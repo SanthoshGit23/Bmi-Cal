@@ -1,1 +1,1 @@
-# Bmi-Cal
+# BMI-Calculator
